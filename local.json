@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Sugar: Soda Swap (short version, 5 days per week)",
+    "short_description": "For this activity, swap your daily soda habit for water, at least five days a week. Your body needs to stay hydrated, and water is the best drink to have all day long. Regular and diet soda have many drawbacks, like added sugar, artificial sugars, caffeine, food coloring and dyes. When it comes to quenching your thirst and looking after your body's health, reach for water instead of soda.",
+    "long_description": "",
+    "reporting_types": [
+      "SelfReport"
+    ],
+    "tracking_type": "YesNoDaily",
+    "activity_type": "choose water instead of soda",
+    "activity_unit": "times",
+    "activity_target": 5,
+    "strategy_text": "To complete this, <b><span class=\"editactivity\">choose water instead of soda</span></b>",
+    "activity_period": "Weekly",
+    "points": 25,
+    "image_url": "https://d2qv7eqemtyl41.cloudfront.net/PDW/d7d5b498-b7f4-44aa-a311-2070a4023210-large.jpg",
+    "small_image_url": "https://d2qv7eqemtyl41.cloudfront.net/PDW/d7d5b498-b7f4-44aa-a311-2070a4023210-medium.jpg",
+    "topics": [],
+    "dimensions": [
+      "Energy Level",
+      "Healthy Blood Sugar",
+      "Healthy Weight",
+      "Heart Health",
+      "Nutrition"
+    ],
+    "id": "00025b98-0000-0000-0000-000000000000",
+    "document_type": "ActivityTemplate",
+    "library_id": "4a783d58-8be1-4665-80a5-4b2af959e98a",
+    "partner_id": 0,
+    "event_code": null,
+    "button_text": null,
+    "target_url": null,
+    "show_weekly_calendar": false,
+    "show_extended_description": false,
+    "_rid": "oY5SAPqrmgABAAAAAAAAAA==",
+    "_self": "dbs/oY5SAA==/colls/oY5SAPqrmgA=/docs/oY5SAPqrmgABAAAAAAAAAA==/",
+    "_etag": "\"0000239a-0000-0000-0000-59fa78c40000\"",
+    "_attachments": "attachments/",
+    "_ts": 1509587140
+  }
+]
